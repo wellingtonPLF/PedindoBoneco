@@ -1,0 +1,13 @@
+C:\Users\wellington\source\repos\CriandoBonecos\CriandoBonecos\bin\Debug\netcoreapp3.1\CriandoBonecos.exe
+C:\Users\wellington\source\repos\CriandoBonecos\CriandoBonecos\bin\Debug\netcoreapp3.1\CriandoBonecos.deps.json
+C:\Users\wellington\source\repos\CriandoBonecos\CriandoBonecos\bin\Debug\netcoreapp3.1\CriandoBonecos.runtimeconfig.json
+C:\Users\wellington\source\repos\CriandoBonecos\CriandoBonecos\bin\Debug\netcoreapp3.1\CriandoBonecos.runtimeconfig.dev.json
+C:\Users\wellington\source\repos\CriandoBonecos\CriandoBonecos\bin\Debug\netcoreapp3.1\CriandoBonecos.dll
+C:\Users\wellington\source\repos\CriandoBonecos\CriandoBonecos\bin\Debug\netcoreapp3.1\CriandoBonecos.pdb
+C:\Users\wellington\source\repos\CriandoBonecos\CriandoBonecos\obj\Debug\netcoreapp3.1\CriandoBonecos.csproj.AssemblyReference.cache
+C:\Users\wellington\source\repos\CriandoBonecos\CriandoBonecos\obj\Debug\netcoreapp3.1\CriandoBonecos.AssemblyInfoInputs.cache
+C:\Users\wellington\source\repos\CriandoBonecos\CriandoBonecos\obj\Debug\netcoreapp3.1\CriandoBonecos.AssemblyInfo.cs
+C:\Users\wellington\source\repos\CriandoBonecos\CriandoBonecos\obj\Debug\netcoreapp3.1\CriandoBonecos.csproj.CoreCompileInputs.cache
+C:\Users\wellington\source\repos\CriandoBonecos\CriandoBonecos\obj\Debug\netcoreapp3.1\CriandoBonecos.dll
+C:\Users\wellington\source\repos\CriandoBonecos\CriandoBonecos\obj\Debug\netcoreapp3.1\CriandoBonecos.pdb
+C:\Users\wellington\source\repos\CriandoBonecos\CriandoBonecos\obj\Debug\netcoreapp3.1\CriandoBonecos.genruntimeconfig.cache
